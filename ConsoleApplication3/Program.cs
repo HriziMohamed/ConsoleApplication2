@@ -1,6 +1,4 @@
-﻿
-
-namespace ConsoleApplication3
+﻿namespace ConsoleApplication3
 {
     class Program
     {
